@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /xyz/
+Disallow: /includes/
+Disallow: /assets/
+Disallow: /templates/
